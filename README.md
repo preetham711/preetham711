@@ -4,34 +4,27 @@
 </p>
 
 
-<!-- Animated Capsule Header -->
+<!-- 🌊 Animated Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=220&section=header&text=Preetham%20Priyatharson&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=UI%2FUX%20Designer%20%7C%20Full%20Stack%20Developer%20in%20Progress&descAlignY=60" />
 </p>
 
-<!-- Typing Animation -->
+<!-- ⌨️ Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Welcome+to+my+Dev+World+%F0%9F%8C%8D;UI%2FUX+Designer+%26+App+Developer;Building+Clean+UI+%7C+Smooth+UX+%7C+Smart+Systems;Leveling+Up+Every+Day+Like+a+Game+%F0%9F%8E%AE" />
-</p>
-
-<!-- Animated Coder GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Welcome+to+my+Dev+World+%F0%9F%8E%AE;UI%2FUX+Designer+%26+App+Developer;Building+Clean+UI+%7C+Smooth+UX+%7C+Scalable+Systems;Leveling+Up+Every+Day+%F0%9F%9A%80" />
 </p>
 
 ---
 
 ## 🧑‍🚀 Player Profile
 
-- 🎨 UI/UX Designer with real-world client projects  
-- 💼 Worked on real products under **Marantrix (Freelance)**  
-- 📱 Building mobile apps & web apps  
-- 🌱 Grinding Full Stack + Mobile Dev skills  
-- 🎯 Mission: Clean UI, Great UX, Scalable Apps  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=22C55E&center=true&vCenter=true&width=800&lines=UI%2FUX+Designer+with+Real+World+Projects;Freelance+Experience+at+Marantrix;Building+Mobile+Apps+%26+Web+Platforms;Mission%3A+Clean+UI+%7C+Great+UX+%7C+Scalable+Apps" />
+</p>
 
 ---
 
-## 🛠️ Skill Tree (Tech Stack)
+## 🌳 Skill Tree (Modern Icons)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma,flutter,react,js,html,css,tailwind,node,firebase,mysql,mongodb,git,github&perline=7" />
@@ -39,110 +32,42 @@
 
 ---
 
-## 🎮 Player Stats (Live)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&border_radius=12" height="180"/>
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&border_radius=12" height="180"/>
-</p>
-
----
-
-## 🧠 Power Stats (Advanced)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&border_radius=12" height="160"/>
-</p>
-
----
-
-## 🏆 Achievements Board
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-## 🌍 3D Contribution World Map
-
-<p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
----
-
-## 📈 Activity Graph (Animated Feel)
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&area=true&hide_border=true" />
-</p>
-
----
-
-## 🐍 Snake Eating My Contributions (Game Mode ON)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
-</picture>
-
----
 
 ## 💼 Work & Experience
 
-- 🎨 UI/UX Designer – **Marantrix (Freelance)**  
-- 📱 Designed mobile apps, dashboards, SaaS & websites  
-- 🌐 Built real-world projects using Flutter & React  
-- 🧠 Focus on user-centered design & performance  
-
----
-
-## 🧩 Frontend Development
-
-- ⚛️ React  
-- 📱 Flutter  
-- 🖼️ HTML, CSS, JavaScript  
-- 💨 Tailwind CSS  
-- 📐 Responsive UI Systems  
-
----
-
-## 🔧 Backend Development
-
-- 🟢 Node.js (Basics)  
-- 🔌 REST APIs  
-- 🔐 Auth Systems  
-- 🛠️ Server Logic & Integrations  
-
----
-
-## 🗄️ Database
-
-- 🔥 Firebase (Auth, Firestore, Storage)  
-- 🐬 MySQL  
-- 🍃 MongoDB  
-- 🗂️ CRUD & Data Modeling  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=700&color=F59E0B&center=true&vCenter=true&width=900&lines=UI%2FUX+Designer+%40+Marantrix+(Freelance);Designed+Mobile+Apps%2C+Dashboards%2C+Web+Platforms;Built+Real+World+Projects+Using+Flutter+%26+React;Focused+on+User+Centered+Design+%26+Performance" />
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-- 💼 Portfolio: https://marantrix-88fe8.web.app  
-- 🐙 GitHub: https://github.com/YOUR_USERNAME  
-- 💼 LinkedIn: (Add your link)  
-- 📧 Email: (Add your email)  
+<p align="center">
+  <a href="https://marantrix-88fe8.web.app">
+    <img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-2563eb?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 👀 Profile Views Counter
+## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=38bdf8" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=22c55e" />
 </p>
 
-<!-- Animated Footer -->
+<!-- 🌊 Animated Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0ea5e9&height=120&section=footer" />
 </p>
+
+
+
