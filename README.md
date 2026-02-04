@@ -1,16 +1,23 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=inter&pause=1000&color=690000&center=true&vCenter=true&width=435&lines=Hi%2C+I%E2%80%99m+Preetham+%F0%9F%91%8B;UI%2FUX+Designer+%7C+Full+Stack+Learner;I+build+apps+%26+websites+%F0%9F%9A%80)](https://git.io/typing-svg)
+## 👋 About Me
 
-<!--
-**preetham711/preetham711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎨 UI/UX Designer & Aspiring Full Stack Developer  
+🚀 I build modern mobile apps and websites  
+💼 Worked on real-world projects at Marantrix  
+📱 Focused on Mobile Apps, Web Apps & UX  
+## 🛠️ Tech Stack
 
-Here are some ideas to get you started:
+![My Skills](https://skillicons.dev/icons?i=figma,flutter,react,js,html,css,tailwind,node,git,github)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+</p>
+<p align="center">
+  <img src="https://github.githubassets.com/images/mona-whisper.gif" /> A treasure! :sparkles:
+</p>
+
+
+
