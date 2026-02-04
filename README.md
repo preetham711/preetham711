@@ -1,113 +1,86 @@
-<!-- Animated Typing Header -->
+</p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Preetham+Priyatharson+%F0%9F%91%8B;UI%2FUX+Designer+%7C+Full+Stack+Developer+in+Progress;I+Build+Clean+UI+%26+Smooth+UX;Leveling+Up+Every+Day+%F0%9F%9A%80" />
+  <img src="https://github.githubassets.com/images/mona-whisper.gif" /> A treasure! :sparkles:
 </p>
 
-<!-- Cool Coding GIF -->
+
+<!-- Animated Capsule Header -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=220&section=header&text=Preetham%20Priyatharson&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=UI%2FUX%20Designer%20%7C%20Full%20Stack%20Developer%20in%20Progress&descAlignY=60" />
 </p>
 
----
-
-## 🏷️ Title
-
-**Preetham Priyatharson**  
-_UI/UX Designer • Full Stack Developer in Progress_
-
----
-
-## ✨ Subtitle
-
-> Building clean UI, smooth UX, and scalable web & mobile apps 🚀
-
----
-
-## 👋 About Me
-
-- 🎨 UI/UX Designer with real-world project experience  
-- 💼 Worked on client projects under **Marantrix (Freelance)**  
-- 📱 Designing & building mobile apps and web apps  
-- 🌱 Currently improving Full Stack & Mobile Development skills  
-- 🎯 Focused on **clean UI, great UX, and performance**  
-
----
-
-## 💼 Work
-
-- 🎨 UI/UX Designer at **Marantrix** (Freelance / Real Projects)  
-- 📱 Designed mobile apps, dashboards, and web platforms  
-- 🌐 Built real-world projects using Flutter, React, and modern web tech  
-- 🧠 Focused on user-centered design and clean interfaces  
-
----
-
-## 🛠️ Skills
-
-- UI/UX Design (Figma, Wireframing, Prototyping)
-- Mobile App Development (Flutter)
-- Web Development (React, HTML, CSS, JavaScript)
-- Backend Basics (Node.js, APIs)
-- Firebase Integration
-- Git & GitHub
-- Problem Solving & Product Thinking
-
----
-
-## 🎨 Frontend Development
-
-- ⚛️ React
-- 🖼️ HTML5, CSS3, JavaScript
-- 💨 Tailwind CSS
-- 📱 Flutter (Mobile UI)
-- 🧩 Component-based UI
-- 📐 Responsive Design
-
----
-
-## 🧠 Backend Development
-
-- 🟢 Node.js (Basics)
-- 🔌 REST APIs
-- 🔐 Authentication & Authorization
-- 🛠️ Server-side Logic
-- 📦 API Integration
-
----
-
-## 🗄️ Database
-
-- 🔥 Firebase (Auth, Firestore, Storage)
-- 🐬 MySQL
-- 🍃 MongoDB (Basics)
-- 🗂️ CRUD Operations & Data Modeling
-
----
-
-## 🧰 Tech Stack
-
-![My Skills](https://skillicons.dev/icons?i=figma,flutter,react,js,html,css,tailwind,node,firebase,mysql,mongodb,git,github)
-
----
-
-## 📊 GitHub Stats (Game Style 😎)
-
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" height="170"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Welcome+to+my+Dev+World+%F0%9F%8C%8D;UI%2FUX+Designer+%26+App+Developer;Building+Clean+UI+%7C+Smooth+UX+%7C+Smart+Systems;Leveling+Up+Every+Day+Like+a+Game+%F0%9F%8E%AE" />
+</p>
+
+<!-- Animated Coder GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" />
 </p>
 
 ---
 
-## 🏆 Achievements
+## 🧑‍🚀 Player Profile
+
+- 🎨 UI/UX Designer with real-world client projects  
+- 💼 Worked on real products under **Marantrix (Freelance)**  
+- 📱 Building mobile apps & web apps  
+- 🌱 Grinding Full Stack + Mobile Dev skills  
+- 🎯 Mission: Clean UI, Great UX, Scalable Apps  
+
+---
+
+## 🛠️ Skill Tree (Tech Stack)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&row=1&column=6" />
+  <img src="https://skillicons.dev/icons?i=figma,flutter,react,js,html,css,tailwind,node,firebase,mysql,mongodb,git,github&perline=7" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake Animation
+## 🎮 Player Stats (Live)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&border_radius=12" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&border_radius=12" height="180"/>
+</p>
+
+---
+
+## 🧠 Power Stats (Advanced)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&border_radius=12" height="160"/>
+</p>
+
+---
+
+## 🏆 Achievements Board
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## 🌍 3D Contribution World Map
+
+<p align="center">
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Activity Graph (Animated Feel)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&area=true&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Snake Eating My Contributions (Game Mode ON)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
@@ -117,25 +90,59 @@ _UI/UX Designer • Full Stack Developer in Progress_
 
 ---
 
-## 🌐 Social
+## 💼 Work & Experience
 
-- 💼 Portfolio: https://marantrix-88fe8.web.app  
-- 🐙 GitHub: https://github.com/YOUR_USERNAME  
-- 💼 LinkedIn: (Add your LinkedIn link here)  
-- 📧 Email: (Add your email here)
+- 🎨 UI/UX Designer – **Marantrix (Freelance)**  
+- 📱 Designed mobile apps, dashboards, SaaS & websites  
+- 🌐 Built real-world projects using Flutter & React  
+- 🧠 Focus on user-centered design & performance  
 
 ---
 
-## 👀 Profile Views
+## 🧩 Frontend Development
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=38bdf8&style=flat)
+- ⚛️ React  
+- 📱 Flutter  
+- 🖼️ HTML, CSS, JavaScript  
+- 💨 Tailwind CSS  
+- 📐 Responsive UI Systems  
 
+---
 
+## 🔧 Backend Development
 
+- 🟢 Node.js (Basics)  
+- 🔌 REST APIs  
+- 🔐 Auth Systems  
+- 🛠️ Server Logic & Integrations  
 
-</p>
+---
+
+## 🗄️ Database
+
+- 🔥 Firebase (Auth, Firestore, Storage)  
+- 🐬 MySQL  
+- 🍃 MongoDB  
+- 🗂️ CRUD & Data Modeling  
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 Portfolio: https://marantrix-88fe8.web.app  
+- 🐙 GitHub: https://github.com/YOUR_USERNAME  
+- 💼 LinkedIn: (Add your link)  
+- 📧 Email: (Add your email)  
+
+---
+
+## 👀 Profile Views Counter
+
 <p align="center">
-  <img src="https://github.githubassets.com/images/mona-whisper.gif" /> A treasure! :sparkles:
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=38bdf8" />
 </p>
 
-
+<!-- Animated Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0ea5e9&height=120&section=footer" />
+</p>
